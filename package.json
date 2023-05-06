@@ -1,6 +1,6 @@
 {
   "name": "framework-espidf",
-  "version": "3.40402.0",
+  "version": "3.50001.0",
   "description": "Patch of esp-idf 5.0 to add midi-usb.",
   "keywords": [
     "framework",

@@ -1,5 +1,5 @@
 {
-  "name": "framework-espidf",
+  "name": "framework-espidf@mainframe",
   "version": "3.50001.0",
   "description": "Patch of esp-idf 5.0 to add midi-usb.",
   "keywords": [
